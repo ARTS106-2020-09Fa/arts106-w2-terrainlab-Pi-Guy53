@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Vaporakis_Mihail W2 Terrain Homework.unity
+    guid: 332fd6099a99a47fd93d3cb4ca70d335
   m_configObjects: {}
